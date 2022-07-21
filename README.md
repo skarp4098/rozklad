@@ -1,2 +1,3 @@
 # rozklad
 # rozklad
+# stronka
